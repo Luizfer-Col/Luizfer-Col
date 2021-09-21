@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy LuizFer Colorado</h1>
+<h1 align="center">Hola 👋, Soy Luis Colorado</h1>
 <h3 align="center">Soy programador y desarrollador Full Stack. Aficionado a las hojas de cálculo, la productividad y el aprendizaje continuo.</h3>
 
 <!-- <h3 align="center">Puedes contactarme en: <a href="https://linkedin.com/in/https://www.linkedin.com/in/luizfer-col/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luizfer-col/" height="30" width="40" /></a></h3> -->
